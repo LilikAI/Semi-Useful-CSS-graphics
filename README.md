@@ -1,2 +1,5 @@
 # Semi-Useful-CSS-graphics
-A repository that will grow quite a bit probably as I make things with CSS.
+
+This repository is just a place to dump some of my CSS creations that I plan to integrate into a webpage or site that I'm working on, or may work on in the future. As I create graphics for different webpages I make, this repository will no doubt grow.
+
+Anyone is welcome to take source code from this repository and use it as described by the license file. Have some fun with it, I don't know.
